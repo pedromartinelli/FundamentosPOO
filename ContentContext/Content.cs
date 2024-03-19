@@ -1,9 +1,15 @@
 ﻿namespace fundamentosPOO.ContentContext
 {
-    public class Content
+    // abstract - não pode ser instanciada
+    public abstract class Content
     {
-        public int Id { get; set; }
-        public string Title { get; set; } = null!;
-        public string Url { get; set; } = null!;
+        public Content()
+        {
+            Id = new Guid(); // SPOF
+        }
+
+        public Guid Id { get; set; }
+        public string Title { get; set; }
+        public string Url { get; set; }
     }
 }

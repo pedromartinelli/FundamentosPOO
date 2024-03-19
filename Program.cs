@@ -30,7 +30,7 @@ namespace fundamentosPOO
 
 
             var careerItem1 = new CareerItem(1, "Comece por aqui", "Aprenda C#", courseCsharp);
-            var careerItem2 = new CareerItem(2, "Avance no desenvolvimento", "Aprenda OOP", courseOOP);
+            var careerItem2 = new CareerItem(2, "Avance no desenvolvimento", "Aprenda OOP", null);
             var careerItem3 = new CareerItem(3, "Acesso a dados", "Aprenda EF", courseEf);
 
             var careerDotnet = new Career("Especialista .NET", "especialista-dotnet");
@@ -46,7 +46,12 @@ namespace fundamentosPOO
                 foreach (var careerItem in career.Items.OrderBy(x => x.Order))
                 {
                     Console.WriteLine($"{careerItem.Order} - {careerItem.Title}");
+                    foreach (var notification in careerItem.Notifications)
+                    {
+                        Console.WriteLine($"{notification.Property} - {notification.Message}");
+                    }
                 }
+
                 Console.WriteLine($"\n");
             }
         }

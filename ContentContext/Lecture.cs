@@ -1,4 +1,5 @@
 ﻿using fundamentosPOO.ContentContext.Enums;
+using fundamentosPOO.SharedContext;
 
 namespace fundamentosPOO.ContentContext
 {

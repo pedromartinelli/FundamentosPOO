@@ -1,4 +1,6 @@
-﻿namespace fundamentosPOO.ContentContext
+﻿using fundamentosPOO.SharedContext;
+
+namespace fundamentosPOO.ContentContext
 {
     public class Module : Base
     {

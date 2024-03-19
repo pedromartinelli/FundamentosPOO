@@ -1,6 +1,6 @@
 ﻿using fundamentosPOO.NotificationContext;
 
-namespace fundamentosPOO.ContentContext
+namespace fundamentosPOO.SharedContext
 {
     public abstract class Base : Notifiable
     {

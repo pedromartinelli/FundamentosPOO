@@ -1,4 +1,6 @@
-﻿namespace fundamentosPOO.ContentContext
+﻿using fundamentosPOO.SharedContext;
+
+namespace fundamentosPOO.ContentContext
 {
     // abstract - não pode ser instanciada
     public abstract class Content : Base

@@ -1,4 +1,5 @@
 ﻿using fundamentosPOO.NotificationContext;
+using fundamentosPOO.SharedContext;
 
 namespace fundamentosPOO.ContentContext
 {

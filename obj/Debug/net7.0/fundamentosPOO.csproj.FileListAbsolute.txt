@@ -1,0 +1,14 @@
+C:\Prog\balta\FundamentosPOO\fundamentosPOO\bin\Debug\net7.0\fundamentosPOO.exe
+C:\Prog\balta\FundamentosPOO\fundamentosPOO\bin\Debug\net7.0\fundamentosPOO.deps.json
+C:\Prog\balta\FundamentosPOO\fundamentosPOO\bin\Debug\net7.0\fundamentosPOO.runtimeconfig.json
+C:\Prog\balta\FundamentosPOO\fundamentosPOO\bin\Debug\net7.0\fundamentosPOO.dll
+C:\Prog\balta\FundamentosPOO\fundamentosPOO\bin\Debug\net7.0\fundamentosPOO.pdb
+C:\Prog\balta\FundamentosPOO\fundamentosPOO\obj\Debug\net7.0\fundamentosPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prog\balta\FundamentosPOO\fundamentosPOO\obj\Debug\net7.0\fundamentosPOO.AssemblyInfoInputs.cache
+C:\Prog\balta\FundamentosPOO\fundamentosPOO\obj\Debug\net7.0\fundamentosPOO.AssemblyInfo.cs
+C:\Prog\balta\FundamentosPOO\fundamentosPOO\obj\Debug\net7.0\fundamentosPOO.csproj.CoreCompileInputs.cache
+C:\Prog\balta\FundamentosPOO\fundamentosPOO\obj\Debug\net7.0\fundamentosPOO.dll
+C:\Prog\balta\FundamentosPOO\fundamentosPOO\obj\Debug\net7.0\refint\fundamentosPOO.dll
+C:\Prog\balta\FundamentosPOO\fundamentosPOO\obj\Debug\net7.0\fundamentosPOO.pdb
+C:\Prog\balta\FundamentosPOO\fundamentosPOO\obj\Debug\net7.0\fundamentosPOO.genruntimeconfig.cache
+C:\Prog\balta\FundamentosPOO\fundamentosPOO\obj\Debug\net7.0\ref\fundamentosPOO.dll

@@ -3,13 +3,15 @@
     // abstract - não pode ser instanciada
     public abstract class Content
     {
-        public Content()
+        public Content(string title, string url)
         {
-            Id = new Guid(); // SPOF
+            Id = Guid.NewGuid(); // SPOF
+            Title = title;
+            Url = url;
         }
 
         public Guid Id { get; set; }
-        public string Title { get; set; } = null!;
-        public string Url { get; set; } = null!;
+        public string Title { get; set; }
+        public string Url { get; set; }
     }
 }

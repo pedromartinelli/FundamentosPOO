@@ -1,4 +1,5 @@
 ﻿using fundamentosPOO.ContentContext;
+using fundamentosPOO.SubscriptionContext;
 
 namespace fundamentosPOO
 {
@@ -54,6 +55,10 @@ namespace fundamentosPOO
 
                 Console.WriteLine($"\n");
             }
+
+            var payPalSubscription = new PayPalSubscription();
+            var student = new Student();
+            student.CreateSubscription(payPalSubscription);
         }
     }
 }
